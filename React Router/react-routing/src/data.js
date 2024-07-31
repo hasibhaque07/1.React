@@ -1,0 +1,32 @@
+export const blogsData = [
+    {
+        id: 1,
+        title: 'html',
+        body: 'Nonumy dolores et sanctus diam labore voluptua, sit duo kasd kasd ipsum voluptua. Takimata lorem accusam at et, dolor sit lorem sit sit dolor eos rebum, amet justo justo lorem elitr takimata amet, aliquyam eos tempor sed dolor et magna sadipscing at, sed tempor sanctus sed voluptua voluptua sit elitr, kasd eirmod kasd duo sadipscing, justo ea sit lorem et takimata. Ipsum nonumy takimata duo sit ipsum et. Sea diam est clita voluptua erat amet magna gubergren dolor. Lorem et duo stet sadipscing consetetur no. Dolor vero eirmod diam nonumy, dolores elitr ipsum sit et sed amet sed labore. Est sed dolor aliquyam at elitr accusam gubergren. Sed vero et lorem tempor diam accusam, dolor sed sanctus accusam accusam, consetetur eos et gubergren sea erat at lorem, amet et magna no diam ipsum. Stet amet ea et gubergren et aliquyam et, vero ea dolor tempor sea no lorem ea vero. Sed consetetur justo sed et est dolores lorem et. Invidunt sed sea magna diam dolor nonumy dolore. Sanctus no sit et vero aliquyam elitr sit eirmod. Diam no sed rebum eos sea et dolore lorem kasd, ipsum duo est voluptua invidunt sadipscing eos, sanctus ea dolore dolores et consetetur dolores.'
+        
+    },
+    {
+        id: 2,
+        title: 'css',
+        body: 'Nonumy dolores et sanctus diam labore voluptua, sit duo kasd kasd ipsum voluptua. Takimata lorem accusam at et, dolor sit lorem sit sit dolor eos rebum, amet justo justo lorem elitr takimata amet, aliquyam eos tempor sed dolor et magna sadipscing at, sed tempor sanctus sed voluptua voluptua sit elitr, kasd eirmod kasd duo sadipscing, justo ea sit lorem et takimata. Ipsum nonumy takimata duo sit ipsum et. Sea diam est clita voluptua erat amet magna gubergren dolor. Lorem et duo stet sadipscing consetetur no. Dolor vero eirmod diam nonumy, dolores elitr ipsum sit et sed amet sed labore. Est sed dolor aliquyam at elitr accusam gubergren. Sed vero et lorem tempor diam accusam, dolor sed sanctus accusam accusam, consetetur eos et gubergren sea erat at lorem, amet et magna no diam ipsum. Stet amet ea et gubergren et aliquyam et, vero ea dolor tempor sea no lorem ea vero. Sed consetetur justo sed et est dolores lorem et. Invidunt sed sea magna diam dolor nonumy dolore. Sanctus no sit et vero aliquyam elitr sit eirmod. Diam no sed rebum eos sea et dolore lorem kasd, ipsum duo est voluptua invidunt sadipscing eos, sanctus ea dolore dolores et consetetur dolores.'
+        
+    },
+    {
+        id: 3,
+        title: 'js',
+        body: 'Nonumy dolores et sanctus diam labore voluptua, sit duo kasd kasd ipsum voluptua. Takimata lorem accusam at et, dolor sit lorem sit sit dolor eos rebum, amet justo justo lorem elitr takimata amet, aliquyam eos tempor sed dolor et magna sadipscing at, sed tempor sanctus sed voluptua voluptua sit elitr, kasd eirmod kasd duo sadipscing, justo ea sit lorem et takimata. Ipsum nonumy takimata duo sit ipsum et. Sea diam est clita voluptua erat amet magna gubergren dolor. Lorem et duo stet sadipscing consetetur no. Dolor vero eirmod diam nonumy, dolores elitr ipsum sit et sed amet sed labore. Est sed dolor aliquyam at elitr accusam gubergren. Sed vero et lorem tempor diam accusam, dolor sed sanctus accusam accusam, consetetur eos et gubergren sea erat at lorem, amet et magna no diam ipsum. Stet amet ea et gubergren et aliquyam et, vero ea dolor tempor sea no lorem ea vero. Sed consetetur justo sed et est dolores lorem et. Invidunt sed sea magna diam dolor nonumy dolore. Sanctus no sit et vero aliquyam elitr sit eirmod. Diam no sed rebum eos sea et dolore lorem kasd, ipsum duo est voluptua invidunt sadipscing eos, sanctus ea dolore dolores et consetetur dolores.'
+        
+    },
+    {
+        id: 4,
+        title: 'bootstrap',
+        body: 'Nonumy dolores et sanctus diam labore voluptua, sit duo kasd kasd ipsum voluptua. Takimata lorem accusam at et, dolor sit lorem sit sit dolor eos rebum, amet justo justo lorem elitr takimata amet, aliquyam eos tempor sed dolor et magna sadipscing at, sed tempor sanctus sed voluptua voluptua sit elitr, kasd eirmod kasd duo sadipscing, justo ea sit lorem et takimata. Ipsum nonumy takimata duo sit ipsum et. Sea diam est clita voluptua erat amet magna gubergren dolor. Lorem et duo stet sadipscing consetetur no. Dolor vero eirmod diam nonumy, dolores elitr ipsum sit et sed amet sed labore. Est sed dolor aliquyam at elitr accusam gubergren. Sed vero et lorem tempor diam accusam, dolor sed sanctus accusam accusam, consetetur eos et gubergren sea erat at lorem, amet et magna no diam ipsum. Stet amet ea et gubergren et aliquyam et, vero ea dolor tempor sea no lorem ea vero. Sed consetetur justo sed et est dolores lorem et. Invidunt sed sea magna diam dolor nonumy dolore. Sanctus no sit et vero aliquyam elitr sit eirmod. Diam no sed rebum eos sea et dolore lorem kasd, ipsum duo est voluptua invidunt sadipscing eos, sanctus ea dolore dolores et consetetur dolores.'
+        
+    },
+    {
+        id: 5,
+        title: 'react',
+        body: 'Nonumy dolores et sanctus diam labore voluptua, sit duo kasd kasd ipsum voluptua. Takimata lorem accusam at et, dolor sit lorem sit sit dolor eos rebum, amet justo justo lorem elitr takimata amet, aliquyam eos tempor sed dolor et magna sadipscing at, sed tempor sanctus sed voluptua voluptua sit elitr, kasd eirmod kasd duo sadipscing, justo ea sit lorem et takimata. Ipsum nonumy takimata duo sit ipsum et. Sea diam est clita voluptua erat amet magna gubergren dolor. Lorem et duo stet sadipscing consetetur no. Dolor vero eirmod diam nonumy, dolores elitr ipsum sit et sed amet sed labore. Est sed dolor aliquyam at elitr accusam gubergren. Sed vero et lorem tempor diam accusam, dolor sed sanctus accusam accusam, consetetur eos et gubergren sea erat at lorem, amet et magna no diam ipsum. Stet amet ea et gubergren et aliquyam et, vero ea dolor tempor sea no lorem ea vero. Sed consetetur justo sed et est dolores lorem et. Invidunt sed sea magna diam dolor nonumy dolore. Sanctus no sit et vero aliquyam elitr sit eirmod. Diam no sed rebum eos sea et dolore lorem kasd, ipsum duo est voluptua invidunt sadipscing eos, sanctus ea dolore dolores et consetetur dolores.'
+        
+    }
+]

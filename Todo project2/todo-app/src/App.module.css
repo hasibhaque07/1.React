@@ -1,0 +1,29 @@
+.app_container{
+    
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+h1{
+   
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 3rem;
+    
+    
+}
+.modal_text{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    position: absolute;
+    left: 20px;
+    bottom: 50px;
+}
+@media screen and (max-width: 600px) {
+    h1{
+        padding-top: 30px
+    }
+    
+}

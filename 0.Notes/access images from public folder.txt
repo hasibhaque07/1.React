@@ -1,0 +1,5 @@
+<img src={process.env.PUBLIC_URL + '/logos/' + jobData.logo} alt="Job Logo" />
+
+<img src={process.env.PUBLIC_URL + jobData.logo} alt="Job Logo" />
+
+<img src={process.env.PUBLIC_URL + '/images/logo1.png'} alt="Logo 1" />

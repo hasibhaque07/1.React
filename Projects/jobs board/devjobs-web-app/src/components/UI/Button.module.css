@@ -1,0 +1,27 @@
+.button {
+  font-size: var(--font-size-body);
+  font-weight: 700;
+  border-radius: var(--border-radius-xs);
+  padding: 1.6rem;
+  text-transform: capitalize;
+  transition: 0.2s linear;
+}
+
+.buttonPrimary {
+  color: var(--color-white);
+  background-color: var(--color-violet);
+}
+
+.buttonSecondary {
+  color: var(--color-btn-2);
+  background-color: var(--background-color-btn-2);
+}
+
+@media (hover: hover) {
+  .buttonPrimary:hover {
+    background-color: var(--color-light-violet);
+  }
+  .buttonSecondary:hover {
+    background-color: var(--background-color-btn-2-hover);
+  }
+}

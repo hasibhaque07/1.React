@@ -1,0 +1,29 @@
+.todo_container{
+    padding: 10px;
+    text-align: left;
+    position: relative;
+}
+.checkBox{
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    
+}
+.txt{
+    font-size: 1.5rem;
+    margin-right: 30px;
+}
+
+.delete_btn{
+    font-size: 1.5rem;
+   
+    position: absolute;
+    right: 0;
+
+}
+.delete_btn:hover{
+    color: rgb(228, 93, 93);
+}
+.delete_btn:hover .txt{
+    color: greenyellow;
+}

@@ -1,0 +1,17 @@
+.faq_container{
+    padding: 25px;
+    margin-top: 13px;
+    margin-bottom: 13px;
+    background-color: #5C5470;
+    border-radius: 10px;
+}
+.title_container{
+    display: flex;
+    justify-content: space-between;
+}
+.toggle_btn{
+    font-size: 2rem;
+    color: white;
+    border: none;
+    background-color: transparent;
+}

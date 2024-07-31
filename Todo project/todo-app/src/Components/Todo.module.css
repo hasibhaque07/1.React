@@ -1,0 +1,28 @@
+.todo_container{
+    background-color: #352F44;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin: 10px;
+    padding: 30px;
+}
+.text_container{
+
+}
+.btn_container{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    font-size: 2rem;
+    background-color: transparent;
+    color: white;
+    border: none;
+}
+.btn:hover{
+    color: rgb(247, 105, 105);
+    cursor: pointer;
+}

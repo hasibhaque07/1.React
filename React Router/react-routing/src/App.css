@@ -1,0 +1,39 @@
+
+.nav-container{
+    background-color: black;
+    padding: 20px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav-item{
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    text-decoration: none;
+}
+.nav-item:hover {
+    color: darkorange;
+}
+nav .active{
+    color: yellow;
+}
+section{
+    display: grid;
+    grid-gap: 1rem;
+}
+article{
+    background-color: aliceblue;
+    padding: 10px;
+}
+@media screen and (min-width: 600px) {
+    section{
+        grid-template-columns: auto auto;
+    }
+}
+@media screen and (min-width: 900px) {
+    section{
+        grid-template-columns: auto auto auto;
+    }
+}

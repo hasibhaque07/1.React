@@ -1,0 +1,46 @@
+.toggle {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1.2rem;
+}
+
+.toggleButton {
+  width: 4.8rem;
+  height: 2.4rem;
+  border-radius: var(--border-radius-m);
+  position: relative;
+  background-color: var(--color-white);
+  transition: 0.2s linear;
+}
+
+.toggleButton:active {
+  transform: scale(0.9);
+}
+
+.toggleButton::before {
+  content: '';
+  display: inline-block;
+  width: 1.4rem;
+  height: 1.4rem;
+  background-color: var(--color-violet);
+  border-radius: 100%;
+  position: absolute;
+  top: 50%;
+  left: 0.5rem;
+  transition: 0.2s linear;
+}
+
+.toggleButton[data-active-theme='light']::before {
+  transform: translateY(-50%) translateX(0);
+}
+
+.toggleButton[data-active-theme='dark']::before {
+  transform: translateY(-50%) translateX(165%);
+}
+
+@media (hover: hover) {
+  .toggleButton:hover::before {
+    background-color: var(--color-light-violet);
+  }
+}

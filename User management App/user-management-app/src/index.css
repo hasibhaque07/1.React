@@ -1,0 +1,16 @@
+.users{
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1rem;
+}
+.user{
+    background-color: antiquewhite;
+    padding: .5rem;
+}
+.newuser_container{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.heading_text{
+    text-align: center;
+}

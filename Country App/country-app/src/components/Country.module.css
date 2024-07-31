@@ -1,0 +1,31 @@
+img{
+    width: 200px;
+    height: 150px;
+}
+.countryContainer{
+    background-color: #A6E3E9;
+    padding: 50px;
+    
+}
+.text{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-weight:400;
+    font-size: 1.3rem;
+    
+}
+.btn{
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+    font-size: 1rem;
+
+}
+.btn:hover{
+    background-color: white;
+    color: black;
+}
